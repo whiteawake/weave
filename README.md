@@ -1,2 +1,2 @@
 # weave
-Twitter-like social media clone.
+Twitter-like social media clone; originally designed for interschool usage.
